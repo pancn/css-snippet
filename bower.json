@@ -1,0 +1,13 @@
+{
+  "name": "css-snippet",
+  "version": "0.0.1",
+  "authors": [
+    "Pancn <pancn126@126.com>"
+  ],
+  "description": "css snippet library.",
+  "main": "css-snippet.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
